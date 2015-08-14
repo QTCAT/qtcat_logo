@@ -1,2 +1,2 @@
-# qtcat_logo
-qtcat_logo
+# QTCAT logos
+
